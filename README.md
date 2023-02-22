@@ -1,2 +1,7 @@
-# assaultWare
-AssaultCube 1.3 cheat written and reversed by 0xTrollingDev and CallMeBoo
+# AssaultWare v1
+
+
+
+-----------------------------------------------------------------
+V0.0
+[+] Official assaultware cheat 1st commmit
