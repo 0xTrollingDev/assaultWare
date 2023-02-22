@@ -39,9 +39,6 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
     <ClCompile Include="imgui.cpp">
       <Filter>Source Files\imgui</Filter>
     </ClCompile>
@@ -56,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="reversals.cpp">
       <Filter>Source Files\reversals</Filter>
+    </ClCompile>
+    <ClCompile Include="cheat_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hacks.cpp">
+      <Filter>Source Files\hacks</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -73,6 +76,9 @@
     </ClInclude>
     <ClInclude Include="reversals.h">
       <Filter>Source Files\reversals</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat_main.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

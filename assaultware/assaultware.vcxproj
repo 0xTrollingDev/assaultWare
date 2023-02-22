@@ -141,15 +141,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cheat_main.cpp" />
     <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="hacks.cpp" />
     <ClCompile Include="hooks.cpp" />
     <ClCompile Include="imgui.cpp" />
     <ClCompile Include="maths.cpp" />
     <ClCompile Include="mem.cpp" />
     <ClCompile Include="reversals.cpp" />
-    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="cheat_main.h" />
     <ClInclude Include="hooks.h" />
     <ClInclude Include="imgui.h" />
     <ClInclude Include="maths.h" />

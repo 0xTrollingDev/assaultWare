@@ -6,6 +6,7 @@
 DWORD WINAPI cheatThread(HMODULE hModule)
 {
     startCheat();
+    return 0;
 }
 
 BOOL APIENTRY DllMain( HMODULE hModule,
