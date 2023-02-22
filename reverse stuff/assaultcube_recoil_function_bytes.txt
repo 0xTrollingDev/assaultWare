@@ -1,0 +1,22 @@
+ac_client.exe+C8DBA - F3 0F5E 4C 24 14     
+ac_client.exe+C8DC0 - 0F28 C1              
+ac_client.exe+C8DC3 - F3 0F59 44 24 18     
+ac_client.exe+C8DC9 - F3 0F59 C2           
+ac_client.exe+C8DCD - F3 0F58 40 10        
+ac_client.exe+C8DD2 - F3 0F11 40 10        
+ac_client.exe+C8DD7 - 0F28 C1              
+ac_client.exe+C8DDA - F3 0F59 44 24 1C     
+ac_client.exe+C8DE0 - F3 0F59 4C 24 20     
+ac_client.exe+C8DE6 - F3 0F59 C2           
+ac_client.exe+C8DEA - F3 0F59 CA           
+ac_client.exe+C8DEE - 0F57 D2              
+ac_client.exe+C8DF1 - F3 0F58 40 14        
+ac_client.exe+C8DF6 - F3 0F58 48 18        
+ac_client.exe+C8DFB - F3 0F11 40 14        
+ac_client.exe+C8E00 - 0F57 C0              
+ac_client.exe+C8E03 - F3 0F11 48 18        
+ac_client.exe+C8E08 - 0FBF 43 5C           
+ac_client.exe+C8E0C - F3 0F2A 57 1C        
+ac_client.exe+C8E11 - F3 0F2A C0           
+ac_client.exe+C8E15 - 0FBF 43 5E           
+
