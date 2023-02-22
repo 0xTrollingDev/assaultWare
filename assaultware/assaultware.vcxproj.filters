@@ -13,10 +13,66 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\imgui">
+      <UniqueIdentifier>{0327529e-848d-4fa0-a9e2-b2fca5d76c8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hacks">
+      <UniqueIdentifier>{c1426f3f-656b-4230-9017-27a72b0e24c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hooks">
+      <UniqueIdentifier>{c8633441-4638-405e-b050-578ce4c45979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\mem">
+      <UniqueIdentifier>{02ea638e-add7-4e5e-970a-3a761159cfb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\maths">
+      <UniqueIdentifier>{04e78f73-d4b3-46a5-bd04-8044241ee827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\opengl">
+      <UniqueIdentifier>{427db85b-c92b-4150-80a1-ca2be38a4dfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\reversals">
+      <UniqueIdentifier>{f69d1c57-9326-495e-9c75-82753498bd56}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>Source Files\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>Source Files\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="mem.cpp">
+      <Filter>Source Files\mem</Filter>
+    </ClCompile>
+    <ClCompile Include="maths.cpp">
+      <Filter>Source Files\maths</Filter>
+    </ClCompile>
+    <ClCompile Include="reversals.cpp">
+      <Filter>Source Files\reversals</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="imgui.h">
+      <Filter>Source Files\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>Source Files\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="mem.h">
+      <Filter>Source Files\mem</Filter>
+    </ClInclude>
+    <ClInclude Include="maths.h">
+      <Filter>Source Files\maths</Filter>
+    </ClInclude>
+    <ClInclude Include="reversals.h">
+      <Filter>Source Files\reversals</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

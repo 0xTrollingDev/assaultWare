@@ -142,6 +142,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="hooks.cpp" />
+    <ClCompile Include="imgui.cpp" />
+    <ClCompile Include="maths.cpp" />
+    <ClCompile Include="mem.cpp" />
+    <ClCompile Include="reversals.cpp" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hooks.h" />
+    <ClInclude Include="imgui.h" />
+    <ClInclude Include="maths.h" />
+    <ClInclude Include="mem.h" />
+    <ClInclude Include="reversals.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
